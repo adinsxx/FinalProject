@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="phaser-arcade-physics" level="application" />
+    <orderEntry type="library" name="phaser-arcade-physics" level="application" />
   </component>
 </module>
